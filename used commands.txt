@@ -1,0 +1,9 @@
+1- git init
+2- ssh-keygen -t ed25519 -C "oa20180180@gmail.com"
+3- git add .
+4- git status
+5- git commit -m "first commit"
+6- git branch -M main
+7- git remote add origin https://github.com/oa180/git-task_ITI.git
+8- git push -u origin main
+
